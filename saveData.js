@@ -11,7 +11,7 @@ var keyName = 'photoX.jpg';
 
 var params = {Bucket: bucketName, Key: keyName, Body: ''};
 
-fs.readFile('photo1.jpg', function (err, data) {
+fs.readFile('photo.jpg', function (err, data) {
 		var afterPut = function(err,data){
 			if (err)
 			  console.log(err)
