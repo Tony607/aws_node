@@ -1,0 +1,1 @@
+https://node-sdk-sample-ff7562fb-c5f2-43a2-ac9d-de73d535225e.s3.amazonaws.com/photoX.jpg?AWSAccessKeyId=AKIAIZIZHFH72N7RNAVA&Expires=1405534615&Signature=BvV1ryqAJ4tPLfxwkiGuAW8uCMc%3D
